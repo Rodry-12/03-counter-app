@@ -1,0 +1,48 @@
+para ello lo que vamos hacer es escibir rafcp y enter;
+ya esto nos crea el componentes con los diferentes imports
+
+tambien tenemos rafc y el rafce
+
+Sección 5:Pruebas unitarias y de integración -
+Probando las secciones anteriores
+
+Temas puntuales de la sección
+¿Qué veremos en esta sección?
+
+Introducción a las pruebas
+
+AAA
+
+Arrange - Arreglar
+
+Act - Actuar
+
+Assert - Afirmar
+
+Primeras pruebas
+
+Jest
+
+Expect
+
+toBe
+
+Enzyme
+
+Comandos útiles en la terminal para pruebas
+
+Revisar elementos renderizados en el componente
+
+Simular eventos
+
+Esta sección de pruebas es sumamente importante porque nos dará la base de las pruebas que estaremos haciendo durante el curso, las pruebas irán creciendo en complejidad, por lo que les recomiendo que nos aseguremos de comprender bien todos estos conceptos para que nos sea más fácil las siguientes secciones de pruebas.
+
+Hay pruebas unitarias y de integracion; las pruebas unitarias estan enfocadas en pequenas piezas o funcionalidades, y las pruebas de integracion estan encargadas en como reacionan varias piezas en conjunto. 
+
+en programacion es algo similar: 
+1. Fáciles de escribir.
+2. Fáciles de leer.
+3. Confiables.
+4. Rápidas.
+5. Principalmente unitarias
+
